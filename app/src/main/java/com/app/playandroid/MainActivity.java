@@ -18,5 +18,6 @@ public class MainActivity extends AppCompatActivity {
     private void initData() {
         ArrayList<String> list=new ArrayList<>();
         list.add("哈哈哈");
+        list.add("我同桌是王立国");
     }
 }
